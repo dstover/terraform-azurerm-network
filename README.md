@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/Azure/terraform-azurerm-network.svg?branch=master)](https://travis-ci.org/Azure/terraform-azurerm-network)
 
+## New version of the module
+
 ## Create a basic network in Azure
 
 This Terraform module deploys a Virtual Network in Azure with a subnet or a set of subnets passed in as input parameters.
